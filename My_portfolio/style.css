@@ -1,0 +1,25 @@
+body{
+    background-color: blueviolet;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+navbar{
+        text-decoration: none;
+        
+        /*below I changed the color*/
+        color: black;
+        /*I added some padding*/
+        padding: 2vw;
+        /*also changed the font family but that's totally irrelevant*/
+        font-family: monospace;
+    }
+content{
+    align-items: center;
+    font-style: bold;
+}
+
